@@ -1,0 +1,11 @@
+:root { --ink:#1c1917; --muted:#57534e; --line:#e7e5e4; --bg:#fafaf9; --card:#fff; --accent:#9a3412; }
+* { box-sizing: border-box; }
+body { margin:0; font:16px/1.5 Georgia, serif; color:var(--ink); background:var(--bg); }
+header, main, footer { max-width: 42rem; margin: 0 auto; padding: 1rem 1.25rem; }
+header { display:flex; justify-content:space-between; gap:1rem; align-items:baseline; border-bottom:1px solid var(--line); }
+nav a { margin-left: .75rem; color: var(--accent); }
+h1 { font-size: 1.7rem; line-height: 1.2; }
+a { color: var(--accent); }
+.card { background: var(--card); border: 1px solid var(--line); padding: 1rem; margin: 1rem 0; }
+.legal, footer { color: var(--muted); font-size: .9rem; }
+ul { padding-left: 1.2rem; }
