@@ -11,5 +11,8 @@ Href: https://usabandit33.github.io/strip-or-recoat/
 |---------|-------|--------|-------|----|----|----|----|
 | Alliance Commercial Cleaning Services | (602) 607-2500 | alliancecommercialaz.com | info@alliancecommercialaz.com | sent 10-13 | | | |
 | Allaman Carpet, Tile & Upholstery Cleaning | (623) 810-7664 | allamanclean.com | AllamanClean@gmail.com | sent 10-13 | | | |
+| Mopheads Commercial Cleaning | (602) 753-5113 | mopheadscommercialcleaning.com | info@mymopheads.com | sent 10-13 | | | |
+| Top Priority Cleaning AZ | (480) 289-0076 | topprioritycleaningaz.com | topprioritycleaning21@gmail.com | sent 10-13 | | | |
+| Square Feat | (480) 777-0605 | squarefeat.com | info@squarefeat.com | sent 10-13 | | | |
 
-T2 due ~2026-10-16/17. Phone-only until an inbox is on the same public page: SolSource, Plan B, TCS Floors.
+T2 due ~2026-10-16/17 for first two; same window for the three added 10-13. Phone-only: SolSource, Plan B, TCS Floors.
